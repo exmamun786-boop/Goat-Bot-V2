@@ -1,0 +1,6 @@
+ // example:	
+ global.GoatBot.onReaction.set(msg.messageID, {
+ 	messageID: msg.messageID,
+ 	commandName,
+ 	// ... and more
+ });
